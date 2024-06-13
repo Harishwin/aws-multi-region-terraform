@@ -1,10 +1,12 @@
 # AWS Multi-Region Terraform
 
-![Terraform](https://img.shields.io/badge/Terraform-v1.4.6-blue)
+![Terraform](https://img.shields.io/badg![Uploading Capture.PNG…]()
+e/Terraform-v1.4.6-blue)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![License](https://img.shields.io/github/license/Harishwin/aws-multi-region-terraform)
 
 This repository contains Terraform configurations to deploy infrastructure across multiple AWS regions using Terraform. It allows for the deployment of two EC2 instances in different AWS regions (us-east-1 and us-east-2) with the same Terraform codebase. If you do not have access to an AWS account, you can use LocalStack to simulate AWS APIs for testing purposes.
+
 
 ## Table of Contents
 
